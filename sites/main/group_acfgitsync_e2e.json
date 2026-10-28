@@ -1,6 +1,6 @@
 {
     "key": "group_acfgitsync_e2e",
-    "title": "ACF Git Sync E2E test",
+    "title": "ACF Git Sync E2E test (edited)",
     "fields": [
         {
             "key": "field_acfgitsync_e2e_headline",
