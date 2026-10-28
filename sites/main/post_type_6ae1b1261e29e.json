@@ -4,7 +4,7 @@
     "menu_order": 0,
     "active": true,
     "post_type": "skola",
-    "advanced_configuration": false,
+    "advanced_configuration": true,
     "import_source": "",
     "import_date": "",
     "allow_ai_access": false,
@@ -61,7 +61,7 @@
     "menu_position": "",
     "menu_icon": {
         "type": "dashicons",
-        "value": "dashicons-admin-post"
+        "value": "dashicons-admin-site-alt"
     },
     "rename_capabilities": false,
     "singular_capability_name": "post",
